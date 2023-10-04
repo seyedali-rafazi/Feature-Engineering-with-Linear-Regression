@@ -7,13 +7,12 @@ EDA is the process of exploring and understanding data. This can be done by visu
 
 The following are some of the techniques covered in this repository:
 
-> 1.Simple EDA: This includes techniques such as plotting histograms, boxplots, and correlation matrices.
-> 2.One-hot encoding: This is a technique for converting categorical variables into numerical variables.
-> 3.Log transformation: This is a technique for transforming skewed numerical variables into more normally distributed variables.
-> 4.Pair plot: This is a type of scatter plot that shows the relationships between all pairs of features in a dataset.
-> 5.Basic feature engineering: This includes techniques such as adding polynomial and interaction terms to features.
-> 6.Feature engineering: categories and features derived from category aggregates: This includes techniques such as creating features that represent the number of categories in a categorical variable or the average value of a numerical variable within each category.
-> 7.This repository is intended to be a starting point for learning about feature engineering and EDA. The code is well-documented and easy to follow.
+> 1. Simple EDA 
+> 2. One-hot Encoding variables
+> 3. Log transformation for skewed variables
+> 4. Pair plot for features
+> 5. Basic feature engineering: adding polynomial and interaction terms
+> 6. Feature engineering: categories and features derived from category aggregates 
 
 To use the code, simply clone the repository and install the dependencies. Then, you can run the notebooks to perform feature engineering and EDA on your own datasets.
 
